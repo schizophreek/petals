@@ -1,0 +1,6 @@
+{
+  "label": "Petals Around Rose",
+  "icon": "icon.png",
+  "launch": "launch.sh",
+  "description": "The classic dice logic game"
+}
