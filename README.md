@@ -19,6 +19,8 @@ If you haven't played before, keep these three clues in mind:
 2. The score for any roll will always be **zero or an even number**.
 3. Once you figure out the secret, **you are sworn to secrecy** and must never reveal the logic to non-Potentates.
 
+Hint: If you guess wrong, the answer is revealed. Study the dice before rolling again.
+
 ---
 
 ## 📦 Installation
@@ -31,3 +33,21 @@ If you haven't played before, keep these three clues in mind:
    SD Card/
    └── App/
        └── Petals/
+   ```
+5. Safely eject the SD card, reinsert it into your device, and launch **Petals Around Rose** from the **Apps** menu.
+
+---
+
+## 🕹️ Controls
+
+| Button | Action |
+| :--- | :--- |
+| **D-Pad** | Adjust guess |
+| **A/B** | Submit score guess / Roll dice |
+| **Start** | Start / Pause / Continue |
+
+---
+
+## 📄 License
+
+Distributed under the open-source MIT License. See `LICENSE` for more information.
