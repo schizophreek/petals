@@ -1,3 +1,5 @@
+![Petals Around the Rose Gameplay Screenshot](petals_scr.png)
+
 # Petals Around the Rose
 
 A standalone retro handheld port of the classic **Petals Around the Rose** dice logic puzzle, built for specific Miyoo devices.
